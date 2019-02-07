@@ -1,0 +1,7 @@
+@import url('https://cdn.jsdelivr.net/gh/sae13/asset@latest/fontsahelnahid.css');
+body {
+	font-family:Nahid;
+}
+h1,h2,h3,h4,h5,h6,.title {
+	font-family:Sahel;
+}
